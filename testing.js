@@ -1,1 +1,1 @@
-console.log('okay bruh')
+console.log('just go home')
